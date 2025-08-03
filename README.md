@@ -58,5 +58,5 @@ GEMINI_API_KEY = "your_gemini_api_key_here"
 3. Run the bot:
 
     ```bash
-    python mike_ross.py
+    python bot.py
     ```
